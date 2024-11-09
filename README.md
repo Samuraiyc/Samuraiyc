@@ -1,6 +1,6 @@
 ## Yan Charles
 
-**`Desenvolverdor FullStack`**#
+**`Desenvolverdor FullStack`**
 
 Me chamo Yan Charles, tenho 28 anos e sou natural do Brasil mas atualmente vivo em Portugal. estou cursando aprendendo cada vez mais e evoluindo todos os dias um pouco. Sou apaixonado por tecnologia e compartilho muitas coisas no meu perfil do instagram "[@yan_charless](https://www.instagram.com/yan_chaless/)".
 
