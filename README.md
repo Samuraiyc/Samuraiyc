@@ -5,20 +5,6 @@
 Me chamo Yan Charles, tenho 28 anos e sou natural do Brasil mas atualmente vivo em Portugal. estou cursando aprendendo cada vez mais e evoluindo todos os dias um pouco. Sou apaixonado por tecnologia e compartilho muitas coisas no meu perfil do instagram "[@yan_charless](https://www.instagram.com/yan_chaless/)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@Yan_Charles">
-        <img 
-            alt="youtube subscribers" 
-            title="inscritos" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@Yan_Charles">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
     <a href="https://github.com/Samuraiyc?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
