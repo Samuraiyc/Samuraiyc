@@ -63,12 +63,4 @@ Me chamo Yan Charles, tenho 28 anos e sou natural do Brasil mas atualmente vivo 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=samuraiyc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuraiyc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
